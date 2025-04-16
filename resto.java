@@ -1,11 +1,3 @@
-/*Brice Fokou
-INT 2200
-
-Projet 5: The user should enter how many item he/she want and the program should return the ticket. Moreover, if the user doesn't have enough the program should ask more util he/she has enough. In addition the, the customer should get a discount of 10% for all orders over $50. the program should be repeat himself until the customer stop and retrun the number of customeer with the grant total
-
-approach: I use the class to cut the receipt in different part part that I will use the main class. Then use the array also to count different the constant. after those step, a create another class that will calculate the discount then return the the result in the main function to display the discount in the receipt if applicable.
-then I use a while loop for repeat the program itself and increments the numberr of customer 
-*/
 import java.util.Scanner;
 
 public class resto extends discount{
